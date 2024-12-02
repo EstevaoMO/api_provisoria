@@ -1,0 +1,57 @@
+[
+    {
+        "nome": "Estevão Batista de Moraes",
+        "email": "estevao@gmail.com",
+        "apelido": "Estevão",
+        "senha": "2103",
+        "inventario": {
+            "eventos": {
+                "dia": "21",
+                "mes": "03",
+                "ano": "2025",
+                "hora": "N/A",
+                "descricao": "Aniversário de 18 anos de idade"
+            },
+
+            "remedios": [
+                {
+                    "nome": "Alegra",
+                    "doses_totais": 12,
+                    "doses_restantes": 2,
+                    "disponivel": "sim"
+                },
+                {
+                    "nome": "Dipirona",
+                    "doses_totais": 5,
+                    "doses_restantes": 0,
+                    "disponivel": "não"
+                }
+            ]
+        }
+    },
+    {
+        "nome": "Nicole da Silva Novaes",
+        "email": "nicole@gmail.com",
+        "apelido": "Nic",
+        "senha": "1903",
+        "inventario": {
+            "eventos": [
+                {
+                    "dia": "19",
+                    "mes": "03",
+                    "ano": "2025",
+                    "hora": "N/A",
+                    "descricao": "Aniversário de 18 anos de idade"
+                }
+            ],
+            "remedios": [
+                {
+                    "nome": "Remédio de Alergia",
+                    "doses_totais": 10,
+                    "doses_restantes": 0,
+                    "disponivel": "não"
+                }
+            ]
+        }
+    }
+]
