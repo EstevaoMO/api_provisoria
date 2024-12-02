@@ -1,0 +1,29 @@
+[
+    {
+        "id": 256,
+        "gramatura": 100,
+        "nome": "Uva, Itália, crua",
+        "valores": {
+            "umidade": "85,0%",
+            "energia_kcal": "53",
+            "energia_kj": "221",
+            "proteina": "0,7g",
+            "lipideos": "0,2g",
+            "colesterol": "NA",
+            "carboidratos": "13,6g",
+            "fibra_alimentar": "0,9g",
+            "cinzas": "0,6g",
+            "calcio": "7mg",
+            "magnesio": "5mg",
+            "manganes": "0,13mg",
+            "fosforo": "12mg",
+            "ferro": "0,1mg",
+            "sodio": "Tr",
+            "potassio": "152mg",
+            "cobre": "0,11mg",
+            "zinco": "Tr",
+            "vitamina_c": "3,3mg"
+        }
+
+    }
+]
